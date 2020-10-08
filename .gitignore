@@ -1,5 +1,5 @@
 **/.autoenv.d
-*/.autoenv
+**/.autoenv
 
 *~
 *.sw[mnpcod]
